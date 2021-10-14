@@ -1,4 +1,4 @@
-= My Project
+= Peterleins Projekt
 firstname lastname
 1.0.0, yyyy-mm-dd: Some notes
 ifndef::imagesdir[:imagesdir: images]
